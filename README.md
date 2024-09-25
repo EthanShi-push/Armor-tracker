@@ -35,7 +35,7 @@ This project implements an armor detection and tracking system using Python and 
 3. **Run the Code**:
    Place your video file (e.g., `1234567.mp4`) in the project directory and run the script to start detecting and tracking armor in the video:
    ```bash
-   python armortracker.py
+   python demo.py
    ```
 
 4. **Control**:
