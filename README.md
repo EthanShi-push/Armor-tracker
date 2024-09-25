@@ -60,6 +60,3 @@ This project implements an armor detection and tracking system using Python and 
 - Add support for more advanced tracking techniques like Kalman filters.
 - Extend the detection to handle more complex and dynamic environments.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
